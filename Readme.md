@@ -9,8 +9,8 @@ Before you can install Xampp, you must download it from [Xampp](https://www.apac
 To create the database, you have to start the Xampp wait until the Apache and MySQL turn on, once it starts press 'Admin' button in MySQL section and it will automatically redirect to PhpMyAdmin website. Enter database tab and put a new database name, for example 'WordPress', and press 'Create' button. This database name will be used when configuring the WordPress.
 
 #Step 3: Setup WordPress
-Download the latest WordPress  from [WordPress](https://WordPress.org/download/). Once you have downloaded, extract the WordPress files to `__X__:\xampp\htdocs (__X__ depend on your files location )` . You can change the WordPress folder name to your preferred name.  
-Go to your web browser and type URL `localhost/__WordPress__ (__WordPress__ is depended on your folder name, in this tutorial were using WordPress as our folder name)`. 
+Download the latest WordPress  from [WordPress](https://WordPress.org/download/). Once you have downloaded, extract the WordPress files to `X:\xampp\htdocs (X depend on your files location)` . You can change the WordPress folder name to your preferred name.  
+Go to your web browser and type URL `localhost/WordPress(WordPress is depended on your folder name, in this tutorial were using WordPress as our folder name)`. 
 
 #Step 4: Install WordPress
 WordPress page will appear and will ask you to choose your language you prefer, choose and press continue. The WordPress will ask the database name that you've created on step 2, input username as root and blank the password because that is the default WordPress username and password. Do not bother other options and just press continue.
